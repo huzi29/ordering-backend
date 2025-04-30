@@ -18,7 +18,7 @@ It provides APIs for listing, searching, adding, removing items, and a chat-base
 
 Clone the Repository
 
-git clone https://github.com/your-username/ordering-backend.git
+git clone https://github.com/huzi29/ordering-backend.git
 
 cd ordering-backend
 
@@ -46,6 +46,16 @@ node scripts/seedData.js
 Get--> http://localhost:5000/api/items
 Get--> http://localhost:5000/api/items/all
 Post--> http://localhost:5000/api/items/query
+
+
+Deployed API Links
+used Render.com for backend deployment
+[https://ordering-backend-7fbc.onrender.com](https://ordering-backend-7fbc.onrender.com)
+[https://ordering-backend-7fbc.onrender.com/api/items](https://ordering-backend-7fbc.onrender.com/api/items)
+[https://ordering-backend-7fbc.onrender.com/api/items/all](https://ordering-backend-7fbc.onrender.com/api/items/all)
+[https://ordering-backend-7fbc.onrender.com/api/items/query](https://ordering-backend-7fbc.onrender.com/api/items/query)
+
+
 
 Name: Huzaifa Shaikh
 Role: Full Stack Developer
